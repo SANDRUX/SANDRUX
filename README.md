@@ -1,4 +1,4 @@
-# Hi there, I'm Sandro (https://www.linkedin.com/in/sandro-tutberidze-74b881201) 👋
+# Hi there, I'm Sandro 👋
 
 I am a C/C++ software developer with expertise in:
 
