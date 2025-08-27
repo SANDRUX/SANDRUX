@@ -34,7 +34,8 @@ Here is a summary of my skills:
 My experience includes:
 
 - 2 years of freelancing on multiple platforms such as Upwork and Freelancer.
-- Working as a C/C++ software developer for Optime.
+- Working as a C/C++ software developer for Optime and Baasi.
+- Working currently as a C/Go developer for Wartiva.
 - Teaching programming as a volunteer in my Discord server.
 
 ## Contact Me
